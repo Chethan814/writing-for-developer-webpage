@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300;400&family=Be+Vietnam+Pro:wght@400;500;700&family=Lato:wght@700&family=Noto+Sans&family=Poppins:wght@400;600&family=Raleway&family=Recursive&family=Young+Serif&display=swap');
+
+
 /* Box sizing rules */
 *,
 *::before,
@@ -7,21 +10,19 @@
 
 /* Remove default margin */
 body,
-h1,
-h2,
-h3,
-h4,
-p,
-figure,
-blockquote,
-dl,
-dd {
+html {
     margin: 0;
+    padding: 0;
+    text-decoration: none;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul[role='list'],
 ol[role='list'] {
+    list-style: none;
+}
+
+li {
     list-style: none;
 }
 
@@ -31,20 +32,18 @@ html:focus-within {
 }
 
 /* Set core body defaults */
-body {
-    min-height: 100vh;
-    text-rendering: optimizeSpeed;
-    line-height: 1.5;
-}
+
 
 /* A elements that don't have a class get default styles */
 a:not([class]) {
     text-decoration-skip-ink: auto;
+    text-decoration: none;
 }
 
 /* Make images easier to work with */
 img,
-picture {
+picture,
+svg {
     max-width: 100%;
     display: block;
 }
@@ -71,4 +70,214 @@ select {
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
     }
+}
+
+/* my code start form her */
+
+body {
+    min-height: 100vh;
+    width: min(1200px, 100%);
+    background-color: #232830;
+    margin-inline: auto;
+
+}
+
+nav {
+    height: 3rem;
+    font-family: poppins, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    font-family: Poppins, serif;
+    font-weight: 400;
+}
+
+nav a {
+    color: #ffffff;
+}
+
+nav .wbnam {
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 18px 0 0 0;
+}
+
+nav ul {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+header {
+    /* width: 100%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6.5rem;
+    margin-bottom: 60px;
+}
+
+header img {
+    width: 195px;
+    height: 205px;
+}
+
+header .main-heading {
+    color: #FF7575;
+    font-family: Recursive;
+    font-size: 71px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 85px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 10px;
+}
+
+header .tag-line {
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+.main-nav {
+    display: flex;
+}
+
+main .txt-slide ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+main .txt-slide ul li {
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #909090;
+}
+
+main .card-row {
+    display: flex;
+}
+
+main .card {
+    columns: #0F1217;
+    background-color: #fff;
+    width: min(390px, 100%);
+    border-radius: 22px;
+    border: 1px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.card-row .card img {
+    width: 337px;
+    height: 160px;
+    margin: 20px;
+}
+
+.card .card-heading {
+    columns: #0F1217;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0 20px;
+}
+
+.card .card-description {
+    color: #0F1217;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0 20px;
+}
+
+.dat-tec {
+    margin: 10px 20px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.page-nav ul {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    font-family: Recursive;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #909090;
+    margin: 5rem 0;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+    color: #fff;
+}
+
+footer .author {
+    display: flex;
+}
+
+.author div {
+    font-family: Source Sans Pro;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-right: 3px;
+}
+ .author button{
+    line-height: 10px;
+ }
+
+.follow button {
+    width: 221px;
+    height: 34px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4699E0;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    border-radius: 5px;
+    font-size: 20px;
 }
