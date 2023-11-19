@@ -11,17 +11,13 @@ Features:
 🚀 Continuous improvement and learning
 Projects Included:
 
-Project One: [Project Name]
+Project One: [ Writing for developer ]
 
-Description: [Brief description]
-Figma Link: [Link to Figma design]
-Project Two: [Project Name]
-
-Description: [Brief description]
-Figma Link: [Link to Figma design]
+Description: [ Translating Figma designs into beautiful and responsive web pages ]
+Figma Link: [ https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev ]
 How to Use:
 
-Clone the repository: git clone [repository URL]
+Clone the repository: git clone [ https://github.com/Chethan814/writing-for-developer-webpage.git ]
 Open the project folder and explore the code.
 Check out the Figma design for reference.
 Feedback and Contributions:
