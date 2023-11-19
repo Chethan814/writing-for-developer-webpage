@@ -6,21 +6,21 @@ In this repository, I'm dedicated to refining my front-end design chops by trans
 
 Features:
 
-💻 Responsive HTML/CSS designs
-🎨 Figma-inspired layouts
-🚀 Continuous improvement and learning
+💻 Responsive HTML/CSS designs <br>
+🎨 Figma-inspired layouts <br>
+🚀 Continuous improvement and learning <br>
 Projects Included: <br>
 
-Project One: [ Writing for developer ] <br>
+Project One:  Writing for developer  <br>
 
-Description: [ Translating Figma designs into beautiful and responsive web pages ] <br>
-Figma Link: [ https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev ] <br>
+Description:  Translating Figma designs into beautiful and responsive web pages  <br>
+Figma Link:  https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev  <br>
 How to Use:
-<br>
-Clone the repository: git clone [ https://github.com/Chethan814/writing-for-developer-webpage.git ]
-Open the project folder and explore the code.
-Check out the Figma design for reference.
-Feedback and Contributions:
-I welcome feedback, suggestions, and contributions. Feel free to open issues, submit pull requests, or connect with me to discuss improvements.
+<br> 
+Clone the repository: git clone  https://github.com/Chethan814/writing-for-developer-webpage.git <br>
+Open the project folder and explore the code. <br>
+Check out the Figma design for reference. <br> <br>
+Feedback and Contributions: <br>
+I welcome feedback, suggestions, and contributions. Feel free to open issues, submit pull requests, or connect with me to discuss improvements. <br>
 
 Let's code and design together! 🚀✨
