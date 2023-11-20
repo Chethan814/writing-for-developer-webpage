@@ -17,7 +17,7 @@ Description:  Translating Figma designs into beautiful and responsive web pages 
 Figma Link:  https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev  <br>
 How to Use:
 <br> 
-Clone the repository: git clone  https://github.com/Chethan814/writing-for-developer-webpage.git <br>
+Clone the repository: git clone  https://chethan814.github.io/writing-for-developer-webpage/index.html <br>
 Open the project folder and explore the code. <br>
 Check out the Figma design for reference. <br> <br>
 Feedback and Contributions: <br>
