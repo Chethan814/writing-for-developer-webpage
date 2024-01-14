@@ -1,26 +1,28 @@
-🚀 HTML & CSS Design Practice Repository
+# HTML & CSS Design Repository
 
-Welcome to my GitHub playground for honing my HTML and CSS skills! 👨‍💻✨
+Welcome to my GitHub repository dedicated to refining my front-end design skills. In this space, I focus on translating Figma designs into responsive web pages.
 
-In this repository, I'm dedicated to refining my front-end design chops by translating Figma designs into beautiful and responsive web pages. Each project is a hands-on exercise in transforming design concepts into pixel-perfect, code-driven realities.
+## Key Features
 
-Features:
+- Responsive HTML/CSS designs
+- Figma-inspired layouts
+- Continuous improvement and learning
 
-💻 Responsive HTML/CSS designs <br>
-🎨 Figma-inspired layouts <br>
-🚀 Continuous improvement and learning <br>
-Projects Included: <br>
+## Project Overview
 
-Project One:  Writing for developer run using this https://chethan814.github.io/writing-for-developer-webpage/ <br>
+### Project One: Writing for Developer
 
-Description:  Translating Figma designs into beautiful and responsive web pages  <br>
-Figma Link:  https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev  <br>
-How to Use:
-<br> 
-Clone the repository: git clone  https://chethan814.github.io/writing-for-developer-webpage/index.html <br>
-Open the project folder and explore the code. <br>
-Check out the Figma design for reference. <br> <br>
-Feedback and Contributions: <br>
-I welcome feedback, suggestions, and contributions. Feel free to open issues, submit pull requests, or connect with me to discuss improvements. <br>
+- **Live Demo:** [Writing for Developer](https://chethan814.github.io/writing-for-developer-webpage/)
+- **Description:** Translating Figma designs into responsive web pages
+- **Figma Design:** [View Figma Design](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev)
 
-Let's code and design together! 🚀✨
+## Preview
+
+![Project Preview](url-to-image.png)
+
+## How to Use
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/chethan814/writing-for-developer-webpage.git
