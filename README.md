@@ -37,3 +37,5 @@ This simplified version maintains the essential information and makes it more co
 [LinkedIn](https://www.linkedin.com/in/chethan-k-r-559748229/) <br>
 [Instagram](https://www.instagram.com/chethan3145/) <br>
 [GitHub](https://github.com/Chethan814) <br>
+
+## Thanks you.
