@@ -8,6 +8,10 @@ Welcome to my GitHub repository dedicated to refining my front-end design skills
 - Figma-inspired layouts
 - Continuous improvement and learning
 
+## Preview
+
+<img src="/img/preview"
+
 ## Project Overview
 
 ### Project One: Writing for Developer
@@ -15,10 +19,6 @@ Welcome to my GitHub repository dedicated to refining my front-end design skills
 - **Live Demo:** [Writing for Developer](https://chethan814.github.io/writing-for-developer-webpage/)
 - **Description:** Translating Figma designs into responsive web pages
 - **Figma Design:** [View Figma Design](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev)
-
-## Preview
-
-![Project Preview](url-to-image.png)
 
 ## How to Use
 
