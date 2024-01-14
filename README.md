@@ -10,7 +10,7 @@ Welcome to my GitHub repository dedicated to refining my front-end design skills
 
 ## Preview
 
-<img src="/img/preview"
+<img src="\img\perview.png">
 
 ## Project Overview
 
@@ -24,5 +24,16 @@ Welcome to my GitHub repository dedicated to refining my front-end design skills
 
 1. **Clone the Repository:**
 
-   ```bash
+   ```
    git clone https://github.com/chethan814/writing-for-developer-webpage.git
+   ```
+## Simplified Version Explanation
+
+This simplified version maintains the essential information and makes it more concise and straightforward. Feel free to adjust it further based on your preferences.
+
+
+## Connect with me on social media:
+
+[LinkedIn](https://www.linkedin.com/in/chethan-k-r-559748229/) <br>
+[Instagram](https://www.instagram.com/chethan3145/) <br>
+[GitHub](https://github.com/Chethan814) <br>
